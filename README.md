@@ -1,5 +1,5 @@
 Hi 👋
 
-Welcome to my GitHub profile 😂
+Welcome to my GitHub profile.
 
-Enjoy..
+Hope you enjoy!
